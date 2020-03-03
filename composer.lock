@@ -737,12 +737,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "1a383120a5b39c501cef9cab2a835ea076cc0eb6"
+                "reference": "1c678071973a0021c25a7f2324bbac295bf84fd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/1a383120a5b39c501cef9cab2a835ea076cc0eb6",
-                "reference": "1a383120a5b39c501cef9cab2a835ea076cc0eb6",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/1c678071973a0021c25a7f2324bbac295bf84fd2",
+                "reference": "1c678071973a0021c25a7f2324bbac295bf84fd2",
                 "shasum": ""
             },
             "require": {
@@ -880,7 +880,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-02-28T19:34:16+00:00"
+            "time": "2020-03-03T22:10:30+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -2030,16 +2030,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v5.0.4",
+            "version": "v5.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "91c294166c38d8c0858a86fad76d8c14dc1144c8"
+                "reference": "d29e2d36941de13600c399e393a60b8cfe59ac49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/91c294166c38d8c0858a86fad76d8c14dc1144c8",
-                "reference": "91c294166c38d8c0858a86fad76d8c14dc1144c8",
+                "url": "https://api.github.com/repos/symfony/console/zipball/d29e2d36941de13600c399e393a60b8cfe59ac49",
+                "reference": "d29e2d36941de13600c399e393a60b8cfe59ac49",
                 "shasum": ""
             },
             "require": {
@@ -2102,7 +2102,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2020-01-25T15:56:29+00:00"
+            "time": "2020-02-24T15:05:31+00:00"
         },
         {
             "name": "symfony/css-selector",
@@ -4002,16 +4002,16 @@
         },
         {
             "name": "nunomaduro/collision",
-            "version": "v4.1.1",
+            "version": "v4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/collision.git",
-                "reference": "1a7c9c49ece828a02b1118234652ada53c1f840b"
+                "reference": "e81356da90969139c85709f8353e59f1e7d5e01c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/1a7c9c49ece828a02b1118234652ada53c1f840b",
-                "reference": "1a7c9c49ece828a02b1118234652ada53c1f840b",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/e81356da90969139c85709f8353e59f1e7d5e01c",
+                "reference": "e81356da90969139c85709f8353e59f1e7d5e01c",
                 "shasum": ""
             },
             "require": {
@@ -4068,7 +4068,7 @@
                 "php",
                 "symfony"
             ],
-            "time": "2020-02-26T22:38:35+00:00"
+            "time": "2020-03-03T18:17:47+00:00"
         },
         {
             "name": "phar-io/manifest",
