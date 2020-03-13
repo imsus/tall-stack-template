@@ -388,16 +388,16 @@
         },
         {
             "name": "fruitcake/laravel-cors",
-            "version": "v1.0.4",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fruitcake/laravel-cors.git",
-                "reference": "138ad34ba5f578283e94c5614f6c48a10bc3ac6a"
+                "reference": "0e0500133dbb6325266133dd72f040617c9cdbd0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fruitcake/laravel-cors/zipball/138ad34ba5f578283e94c5614f6c48a10bc3ac6a",
-                "reference": "138ad34ba5f578283e94c5614f6c48a10bc3ac6a",
+                "url": "https://api.github.com/repos/fruitcake/laravel-cors/zipball/0e0500133dbb6325266133dd72f040617c9cdbd0",
+                "reference": "0e0500133dbb6325266133dd72f040617c9cdbd0",
                 "shasum": ""
             },
             "require": {
@@ -452,7 +452,7 @@
                 "crossdomain",
                 "laravel"
             ],
-            "time": "2020-02-21T13:24:15+00:00"
+            "time": "2020-03-11T21:05:07+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -737,12 +737,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "5829ed37f497506251a6d8decef087563ee72b16"
+                "reference": "bd67cc22af6fbc1f5745b0e3ce79e0a12b092048"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/5829ed37f497506251a6d8decef087563ee72b16",
-                "reference": "5829ed37f497506251a6d8decef087563ee72b16",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/bd67cc22af6fbc1f5745b0e3ce79e0a12b092048",
+                "reference": "bd67cc22af6fbc1f5745b0e3ce79e0a12b092048",
                 "shasum": ""
             },
             "require": {
@@ -830,7 +830,7 @@
                 "ext-memcached": "Required to use the memcache cache driver.",
                 "ext-pcntl": "Required to use all features of the queue worker.",
                 "ext-posix": "Required to use all features of the queue worker.",
-                "ext-redis": "Required to use the Redis cache and queue drivers.",
+                "ext-redis": "Required to use the Redis cache and queue drivers (^4.0|^5.0).",
                 "filp/whoops": "Required for friendly error pages in development (^2.4).",
                 "fzaninotto/faker": "Required to use the eloquent factory builder (^1.9.1).",
                 "guzzlehttp/guzzle": "Required to use the HTTP Client, Mailgun mail driver and the ping methods on schedules (^6.3.1|^7.0).",
@@ -880,7 +880,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-03-09T21:14:10+00:00"
+            "time": "2020-03-12T19:41:12+00:00"
         },
         {
             "name": "laravel/tinker",
