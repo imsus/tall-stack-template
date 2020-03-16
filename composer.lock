@@ -737,12 +737,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "5829ed37f497506251a6d8decef087563ee72b16"
+                "reference": "449c8056cc0f13e7e20428700045339bae6bdca2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/5829ed37f497506251a6d8decef087563ee72b16",
-                "reference": "5829ed37f497506251a6d8decef087563ee72b16",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/449c8056cc0f13e7e20428700045339bae6bdca2",
+                "reference": "449c8056cc0f13e7e20428700045339bae6bdca2",
                 "shasum": ""
             },
             "require": {
@@ -830,7 +830,7 @@
                 "ext-memcached": "Required to use the memcache cache driver.",
                 "ext-pcntl": "Required to use all features of the queue worker.",
                 "ext-posix": "Required to use all features of the queue worker.",
-                "ext-redis": "Required to use the Redis cache and queue drivers.",
+                "ext-redis": "Required to use the Redis cache and queue drivers (^4.0|^5.0).",
                 "filp/whoops": "Required for friendly error pages in development (^2.4).",
                 "fzaninotto/faker": "Required to use the eloquent factory builder (^1.9.1).",
                 "guzzlehttp/guzzle": "Required to use the HTTP Client, Mailgun mail driver and the ping methods on schedules (^6.3.1|^7.0).",
@@ -880,7 +880,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-03-09T21:14:10+00:00"
+            "time": "2020-03-16T18:49:18+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1106,16 +1106,16 @@
         },
         {
             "name": "livewire/livewire",
-            "version": "v1.0.3",
+            "version": "v1.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/livewire/livewire.git",
-                "reference": "6193160cc63d4b9d2adf6f43f6f72a56093ea432"
+                "reference": "d2655f8b96170f70d160398599b84df4c2fe7d9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/livewire/livewire/zipball/6193160cc63d4b9d2adf6f43f6f72a56093ea432",
-                "reference": "6193160cc63d4b9d2adf6f43f6f72a56093ea432",
+                "url": "https://api.github.com/repos/livewire/livewire/zipball/d2655f8b96170f70d160398599b84df4c2fe7d9c",
+                "reference": "d2655f8b96170f70d160398599b84df4c2fe7d9c",
                 "shasum": ""
             },
             "require": {
@@ -1159,7 +1159,7 @@
                 }
             ],
             "description": "A front-end framework for Laravel.",
-            "time": "2020-03-09T14:47:09+00:00"
+            "time": "2020-03-16T21:31:19+00:00"
         },
         {
             "name": "monolog/monolog",
